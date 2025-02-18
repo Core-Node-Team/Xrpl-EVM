@@ -6,7 +6,13 @@
 
 
 ### Explorer And RPC
-SOON
+
+https://xrpl-rpc.corenodehq.xyz
+
+https://xrpl-api.corenodehq.xyz
+
+https://xrpl-evm.corenodehq.xyz
+
 ### Gereklilikler
 ```
 sudo apt update && sudo apt upgrade -y
