@@ -21,7 +21,7 @@ source $HOME/.bash_profile
 ### Varyasyonlar
 ```
 echo "export XRPL_WALLET="mictowallet"" >> $HOME/.bash_profile
-echo "export XRPL_PORT="22"" >> $HOME/.bash_profile
+echo "export XRPL_PORT="29"" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
 ```
