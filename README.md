@@ -1,4 +1,8 @@
+![image](https://github.com/user-attachments/assets/fea8d094-7856-43cd-9c76-b02be353d055)
 
+ 
+ * [Topluluk kanalımız](https://t.me/corenodechat)<br>
+ * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
 
 ### Gereklilikler
 ```
