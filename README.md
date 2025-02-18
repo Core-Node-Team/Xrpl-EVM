@@ -4,6 +4,9 @@
  * [Topluluk kanalımız](https://t.me/corenodechat)<br>
  * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
 
+
+### Explorer And RPC
+SOON
 ### Gereklilikler
 ```
 sudo apt update && sudo apt upgrade -y
