@@ -136,6 +136,7 @@ sed -i -e "s/prometheus = false/prometheus = true/" $HOME/.exrpd/config/config.t
 ```
 ## Starter Snap
 ```
+curl -L http://37.120.189.81/xrpl/xrpl_snap.lz4 | tar -Ilz4 -xf - -C $HOME/.xrpd
 ```
 ### Başlatalım
 ```
