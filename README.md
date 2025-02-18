@@ -7,6 +7,8 @@
 
 ### Explorer And RPC
 
+https://explorer.corenodehq.xyz/xrplevm-devnet/staking
+
 https://xrpl-rpc.corenodehq.xyz
 
 https://xrpl-api.corenodehq.xyz
